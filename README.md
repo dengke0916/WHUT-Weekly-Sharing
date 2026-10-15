@@ -4,6 +4,7 @@
 On every Monday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Conference/Journal|Address|Slides|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Oct 15,2026|Qinghua huang|ColPali: Efficient Document Retrieval with Vision Language Models|Paper|ICLR 2025|[Paper PDF](https://proceedings.iclr.cc/paper_files/paper/2025/file/99e9e141aafc314f76b0ca3dd66898b3-Paper-Conference.pdf)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Oct-15-2026/ColPali.pptx)|
 |Aug 31,2026|Hongda zeng|TRACE: Transformation-Aware Graph Refinement for Reaction Condition Prediction|Paper|AAAI 2026|[Paper PDF](https://ojs.aaai.org/index.php/AAAI/article/view/36971)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Aug-31-2026/trace.pptx)|
 |Aug 31,2026|Junhui Liu|Towards In-Depth Root Cause Localization for Microservices with Multi-Agent Recursion-of-Thought|Paper|IEEE TDSC 2026|[Paper PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11575089)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Aug-31-2026/RCLAgent.pptx)|
 |Aug 24,2026|Zhipeng Duan|Robust Tool Use via Fission-GRPO: Learning to Recover from Execution Errors|Paper|ACL 2026|[Paper PDF](https://aclanthology.org/2026.acl-long.1880.pdf)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Aug-24-2026/Fission-GRPO.pptx)|
